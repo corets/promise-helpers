@@ -19,7 +19,7 @@
     "/dist"
   ],
   "repository": "github:corets/promise-helpers",
-  "homepage": "https://corets.github.io/promise-helpers",
+  "homepage": "https://docs.corets.io/helpers/promise-helpers",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
